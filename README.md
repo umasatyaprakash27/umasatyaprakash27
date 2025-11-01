@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umasatyaprakash27
-- 👀 I’m interested in software development
-- 🌱 I’m currently graduate under electronics and communication in VIT,Vellore
+- 👀 I’m and Analyst experienced in Data, Business, Financial Analysis with tools as AI/ML, SQL, Python, Power Bi, Tableau, Looker.
+- 🌱 Graduate under electronics and communication from VIT,Vellore
 - 📫 Reach me through umasatyaprakash@gmail.com
 
 <!---
